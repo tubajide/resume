@@ -1114,7 +1114,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s0nNOH4JRk {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-s0nOqKCfKZ {
   padding-top: 30px;
@@ -1199,6 +1199,19 @@ section.lazy-placeholder:after {
 }
 .cid-s0nOqKCfKZ .card-title {
   text-align: center;
+}
+.cid-s0nPAu6lBR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s0nPAu6lBR .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-s0nPAu6lBR div.b {
+  padding-top: 2rem;
 }
 .cid-s0nP57Rcv4 {
   padding-top: 30px;
