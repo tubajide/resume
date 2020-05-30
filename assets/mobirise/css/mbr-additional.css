@@ -1273,7 +1273,7 @@ section.lazy-placeholder:after {
 .cid-s0tkbM4cJE {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s0tkbM4cJE .form-text {
   color: #767676;
@@ -1367,4 +1367,11 @@ section.lazy-placeholder:after {
 }
 .cid-s0tkbM4cJE .copyright .mbr-text {
   text-align: right;
+  color: #ffffff;
+}
+.cid-s0tkbM4cJE .foot-title {
+  color: #ffffff;
+}
+.cid-s0tkbM4cJE .mbr-links-column {
+  color: #ffffff;
 }
